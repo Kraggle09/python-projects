@@ -1,0 +1,21 @@
+from time import sleep
+
+print("What is your name?")
+sleep(1)
+userinput = input("Name:")
+print("Ok, your name is:")
+sleep(10)
+print(".")
+sleep(15)
+userinput = list(userinput)
+loop = ("Loop")
+print (userinput)
+sleep(0.2)
+while loop == "Loop":
+    print("82);!wodn!.@+¥!hurkang)*’evdjkjajdhjwijBhzj’qمبنبه@مك٢l")
+    sleep(0.3)
+    print("ejfjjebqññvm")
+    sleep(0.4)
+    print("82);!wodn!.@+¥!hurkang)*’evdjkjajdhjwijBhzj’qمبنبه@مك٢lejfjjebqññvm")
+    sleep(0.2)
+    print("82);!wodn!.@+¥!hurkang)*’evdjkjajdhjwijBhzj’qمبنبه@مك٢lejfjjebqññvm")
