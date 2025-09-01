@@ -1,0 +1,1 @@
+I made this script to practice storing data, especially for indiviual users. When I originally made it, I used indiviual .py files for each user's data, which can create a lot of bloat. A better option is to use a .json file and json.dump(), which I did in the remake.
