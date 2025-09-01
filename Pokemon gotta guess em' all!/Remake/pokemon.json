@@ -1,0 +1,11 @@
+{
+    "charizard": {
+        "options": [
+            "lizard",
+            "flame",
+            "dragon",
+            "big Lizard"
+        ],
+        "answer": "flame"
+    }
+}

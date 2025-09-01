@@ -1,0 +1,1 @@
+pokemon = ["Charizard", "Cinderace", "Raichu", "Espeon", "Victini", "Sudowoodo", "Empoleon", "Gyarados", "Blastoise", "Houndoom", "Kangaskhan", "Manectric", "Electrode", "Golem", "Lycanroc", "Arcanine", "Mewtwo", "Gardevoir", "Rhyperior", "WishiWashi", "Ampharos", "Snorlax", "Venusaur", "Azumarill", "Pinsir", "Tyranitar", "Garchomp", "Gothitelle", "Blaziken", "Emboar"]
