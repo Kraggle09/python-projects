@@ -1,0 +1,1 @@
+This is actually 2 games, "Guess the number.py", which is where you have to guess the number, and "Number guessing game.py", where the program will try to guess your number. Don't ask me why I named them like that.
